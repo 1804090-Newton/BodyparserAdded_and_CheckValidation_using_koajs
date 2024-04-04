@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "koa": "^2.15.2",
+    "koa-bodyparser": "^4.4.1",
+    "koa-router": "^12.0.1",
+    "validatorjs": "^3.22.1"
+  }
+}
